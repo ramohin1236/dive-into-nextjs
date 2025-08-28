@@ -1,11 +1,9 @@
 import React from 'react'
 
-const page = () => {
+const Home = () => {
   return (
-    <div>
-      <h1>Welcome to Next.js!</h1>
-    </div>
+    <div>Home</div>
   )
 }
 
-export default page
+export default Home
